@@ -9,11 +9,13 @@ I have focused more on the coding part rather than improving accuracy of classif
 
 1. Clone the directory
 
-2. Install requirements.txt
- 
-3. Update the root path in "configs/__init__.py"
+2. Install requirements.txt, Download nltk stopwords
 
-3. Run "classifier/seniority_random_forest.py" to find seniority
+3. Keep test and train files in data folder
+ 
+4. Update the root path in "configs/__init__.py"
+
+5. Run "classifier/seniority_random_forest.py" to find seniority
 
 
 ## Further Improvements
